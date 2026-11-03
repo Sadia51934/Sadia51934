@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning, Deep Learning, and my CSE thesis research.<br><br>👯 I’m looking to collaborate on AI/ML research, NLP, and Data Science projects.<br><br>🤝 I’m looking for help with advanced Machine Learning, Deep Learning, and research methodologies.<br><br>🌱 I’m currently learning Natural Language Processing, Deep Learning, and advanced Python.<br><br>💬 Ask me about Python, Data Science, Machine Learning, NLP, and Computer Vision.<br><br>⚡ Fun fact: I love exploring how AI can solve real-world problems, especially in healthcare and biological research!
+🔭 I’m currently working on Machine Learning, Deep Learning.<br><br>👯 I’m looking to collaborate on AI/ML research, NLP, and Data Science projects.<br><br>🤝 I’m looking for help with advanced Machine Learning, Deep Learning, and research methodologies.<br><br>🌱 I’m currently learning Natural Language Processing, Deep Learning, and advanced Python.<br><br>💬 Ask me about Python, Data Science, Machine Learning, NLP, and Computer Vision.<br><br>⚡ Fun fact: I love exploring how AI can solve real-world problems, especially in healthcare and biological research!
 
 
 ## 🌐 Socials:
